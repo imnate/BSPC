@@ -1,0 +1,39 @@
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\bin\Debug\Kinectcolortest.exe
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\bin\Debug\Kinectcolortest.pdb
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\App.g.cs
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest_MarkupCompile.cache
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.exe
+c:\users\user\documents\visual studio 2010\Projects\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.pdb
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.exe
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.pdb
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\bin\Debug\Kinectcolortest.exe
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\bin\Debug\Kinectcolortest.pdb
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\MainWindow.baml
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\App.g.cs
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest_MarkupCompile.cache
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.g.resources
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\Kinectcolortest.Properties.Resources.resources
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\Kinectcolortest.exe
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\Kinectcolortest.pdb
+H:\總審demo 程式\Kinectcolortest\bin\Debug\Kinectcolortest.exe
+H:\總審demo 程式\Kinectcolortest\bin\Debug\Kinectcolortest.pdb
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\MainWindow.baml
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\MainWindow.g.cs
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\App.g.cs
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\Kinectcolortest_MarkupCompile.cache
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\Kinectcolortest.g.resources
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\Kinectcolortest.Properties.Resources.resources
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\總審demo 程式\Kinectcolortest\obj\x86\Debug\GenerateResource.write.1.tlog

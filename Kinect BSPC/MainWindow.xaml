@@ -1,0 +1,24 @@
+﻿<Window x:Class="Kinectcolortest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="529" Width="832">
+    <Grid>
+        <Canvas Height="480" HorizontalAlignment="Left" Name="Canvass" VerticalAlignment="Top" Width="640">
+            <Image Canvas.Left="0" Canvas.Top="0" Height="480" Name="ColorData" Stretch="Fill" Width="640" />
+            <Image x:Name="RightHand" Source="C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\Resources\YES.png"
+                   Canvas.Left="0" Canvas.Top="0" Width="50" Height="50" Visibility="Collapsed" />
+            <Image x:Name="LeftHand" Source="C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\Resources\YES.png"
+                   Canvas.Left="50" Canvas.Top="0" Width="50" Height="50" Visibility="Collapsed" />
+            <Image x:Name="RightFoot" Source="C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\Resources\YES.png"
+                   Canvas.Left="0" Canvas.Top="0" Width="50" Height="50" Visibility="Collapsed" />
+            <Image x:Name="Should" Source="C:\Users\MCU\Desktop\Kinectcolortest\Kinectcolortest\Resources\YES.png"
+                   Canvas.Left="50" Canvas.Top="0" Width="50" Height="50" Visibility="Collapsed" />
+            <Line x:Name="Shoulder" Stroke="Red" StrokeThickness="5" />
+            <Button Content="拍照" Height="40" Name="button1" Width="80" Canvas.Left="554" Canvas.Top="6" Click="button1_Click" />
+        </Canvas>
+        <TextBlock Height="54" HorizontalAlignment="Left" Margin="638,64,0,0" Name="textBlock1" Text="" VerticalAlignment="Top" Width="172" FontSize="36" />
+        <TextBlock Height="51" HorizontalAlignment="Left" Margin="638,170,0,0" Name="textBlock2" Text="" VerticalAlignment="Top" Width="172" FontSize="36" />
+        <TextBlock Height="57" HorizontalAlignment="Left" Margin="638,278,0,0" Name="textBlock3" Text="" VerticalAlignment="Top" Width="172" FontSize="36" />
+        <TextBlock Height="46" HorizontalAlignment="Left" Margin="638,384,0,0" Name="textBlock4" Text="" VerticalAlignment="Top" Width="172" FontSize="36" Foreground="Black"></TextBlock>
+    </Grid>
+</Window>
